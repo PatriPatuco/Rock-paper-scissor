@@ -1,17 +1,16 @@
-import '../styles/App.scss';
+import "../styles/App.scss";
 
-import Gamepitch from './Gamepitch';
-import Match from './Match';
-import Resume from './Resume';
-import Rules from './Rules';
-import Scoreboard from './Scoreboard';
+import Gamepitch from "./Gamepitch";
+import Match from "./Match";
+import Resume from "./Resume";
+import Rules from "./Rules";
+import Scoreboard from "./Scoreboard";
 
 function App() {
   return (
-    <div className=''>
+    <div className="">
       <main>
-<Rules className="rules" />
-
+        <Rules/>
       </main>
     </div>
   );
