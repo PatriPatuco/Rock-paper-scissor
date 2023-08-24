@@ -8,8 +8,11 @@ import Scoreboard from './Scoreboard';
 
 function App() {
   return (
-    <div>
-      <h1>Hello, world!</h1>
+    <div className=''>
+      <main>
+<Rules className="rules" />
+
+      </main>
     </div>
   );
 }

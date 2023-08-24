@@ -1,12 +1,25 @@
 /* Media */
-
+$mobile: 375px;
+$desktop: 1366px;
 
 /* Colors */
+$scissor: to top,hsl(39, 89%, 49%),40%, hsl(40, 84%, 53%);
+$paper: to top,hsl(230, 89%, 62%),40%, hsl(230, 89%, 65%);
+$rock: to top,hsl(349, 71%, 52%),40%, hsl(349, 70%, 56%);
+$lizard:to top,hsl(261, 73%, 60%),40%, hsl(261, 72%, 63%);
+$cyan: to top,hsl(189, 59%, 53%),40%, hsl(189, 58%, 57%);
 
+$bottom-shadow: rgba(0, 0, 0, 0.2) 0px -5px 0px inset;
+$upper-shadow:  rgba(0, 0, 0, 0.2) 0px 5px 0px inset;
 
-/* Fonts */
+$dark-text: hsl(229, 25%, 31%);
+$score-text: hsl(229, 64%, 46%);
+$header: hsl(217, 16%, 45%);
+
+$radial: to top,hsl(214, 47%, 23%), hsl(237, 49%, 15%);
+
+/* Fonts - Weights: 600, 700 */
+$barlow: 'Barlow Semi Condensed', sans-serif;
 
 
 /* Sizes */
-
-
