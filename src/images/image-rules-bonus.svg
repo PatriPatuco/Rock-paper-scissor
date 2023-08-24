@@ -94,7 +94,7 @@
 				<path
 					d="M78.728 12.922l5.617-5.82a1.187 1.187 0 011.7-.008c.475.483.48 1.257.009 1.744l-5.617 5.82a1.187 1.187 0 01-1.7.008 1.249 1.249 0 01-.009-1.744z" />
 			</g>
-			<text font-family="Barlow Semi Condensed, sans-serif" font-size="6" font-style="condensed"
+			<text font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="6" font-style="condensed"
 				font-weight="bold" transform="translate(124 131)">
 				<tspan x="35" y="20">BEATS</tspan>
 			</text>
@@ -105,7 +105,7 @@
 				<path
 					d="M78.728 12.922l5.617-5.82a1.187 1.187 0 011.7-.008c.475.483.48 1.257.009 1.744l-5.617 5.82a1.187 1.187 0 01-1.7.008 1.249 1.249 0 01-.009-1.744z" />
 			</g>
-			<text font-family="Barlow Semi Condensed, sans-serif" font-size="6" font-style="condensed"
+			<text font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="6" font-style="condensed"
 				font-weight="bold" transform="rotate(40 -161.263 250.617)">
 				<tspan x="35" y="6">BEATS</tspan>
 			</text>
@@ -116,7 +116,7 @@
 				<path
 					d="M78.728 12.922l5.617-5.82a1.187 1.187 0 011.7-.008c.475.483.48 1.257.009 1.744l-5.617 5.82a1.187 1.187 0 01-1.7.008 1.249 1.249 0 01-.009-1.744z" />
 			</g>
-			<text font-family="Barlow Semi Condensed, sans-serif" font-size="6" font-style="condensed"
+			<text font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="6" font-style="condensed"
 				font-weight="bold" transform="rotate(-40 373.263 -90.07)">
 				<tspan x="35" y="6">BEATS</tspan>
 			</text>
@@ -128,7 +128,7 @@
 					<path
 						d="M78.728 12.922l5.617-5.82a1.187 1.187 0 011.7-.008c.475.483.48 1.257.009 1.744l-5.617 5.82a1.187 1.187 0 01-1.7.008 1.249 1.249 0 01-.009-1.744z" />
 				</g>
-				<text font-family="Barlow Semi Condensed, sans-serif" font-size="6" font-style="condensed"
+				<text font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="6" font-style="condensed"
 					font-weight="bold" transform="rotate(-110 174.766 34.934)">
 					<tspan x="36" y="6">BEATS</tspan>
 				</text>
@@ -141,29 +141,29 @@
 					<path
 						d="M78.728 12.922l5.617-5.82a1.187 1.187 0 011.7-.008c.475.483.48 1.257.009 1.744l-5.617 5.82a1.187 1.187 0 01-1.7.008 1.249 1.249 0 01-.009-1.744z" />
 				</g>
-				<text font-family="Barlow Semi Condensed, sans-serif" font-size="6" font-style="condensed"
+				<text font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="6" font-style="condensed"
 					font-weight="bold" transform="rotate(110 37.234 121.76)">
 					<tspan x="33" y="6">BEATS</tspan>
 				</text>
 			</g>
 		</g>
-		<text fill="#B1B4C5" font-family="Barlow Semi Condensed, sans-serif" font-size="11"
+		<text fill="#B1B4C5" font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="11"
 			font-style="condensed" font-weight="bold">
 			<tspan x="252" y="64">BEATS</tspan>
 		</text>
-		<text fill="#B1B4C5" font-family="Barlow Semi Condensed, sans-serif" font-size="11"
+		<text fill="#B1B4C5" font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="11"
 			font-style="condensed" font-weight="bold">
 			<tspan x="55" y="64">BEATS</tspan>
 		</text>
-		<text fill="#B1B4C5" font-family="Barlow Semi Condensed, sans-serif" font-size="11"
+		<text fill="#B1B4C5" font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="11"
 			font-style="condensed" font-weight="bold">
 			<tspan x="305" y="225">BEATS</tspan>
 		</text>
-		<text fill="#B1B4C5" font-family="Barlow Semi Condensed, sans-serif" font-size="11"
+		<text fill="#B1B4C5" font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="11"
 			font-style="condensed" font-weight="bold">
 			<tspan x="1" y="225">BEATS</tspan>
 		</text>
-		<text fill="#B1B4C5" font-family="Barlow Semi Condensed, sans-serif" font-size="11"
+		<text fill="#B1B4C5" font-family="Barlow Condensed, sans-serif" font-weight="700"  font-size="11"
 			font-style="condensed" font-weight="bold">
 			<tspan x="154" y="328">BEATS</tspan>
 		</text>

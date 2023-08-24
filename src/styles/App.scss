@@ -7,9 +7,13 @@
 @import "./rules.scss";
 @import "./scoreboard.scss";
 
-
-
 body {
-    background-color: black;
+  width: 100vw;
+  height: 100vh;
+  background: radial-gradient($radial);
+  background-size: contain;
 }
 
+/* html {
+   font-stretch: condensed;
+} */

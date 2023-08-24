@@ -8,9 +8,10 @@ import Scoreboard from "./Scoreboard";
 
 function App() {
   return (
-    <div className="">
+    <div className="page">
       <main>
-        <Rules/>
+        <Scoreboard />
+       {/*  <Rules/> */}
       </main>
     </div>
   );
